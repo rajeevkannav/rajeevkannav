@@ -1,10 +1,7 @@
 Commencement
 ============
 
-I am Rajeev Sharma, looks like below 
-
-![Avatar](https://avatars1.githubusercontent.com/u/331827?s=460&u=b2baf635fce81f768c4eb340a8df82fa3c76942e&v=4)
-
+I am Rajeev Sharma
 -------------
 
 
