@@ -3,9 +3,7 @@
 Rajeev Sharma
 -------------
 
--   [*@rajeevkannav*](https://twitter.com/rajeevkannav)
--   [*Github*](https://github.com/rajeevkannav)
--   [*Resume*](/files/cv.pdf)
+-   [*twitter*](https://twitter.com/rajeevkannav) | [*github*](https://github.com/rajeevkannav) | [*resume*](http://rajeevkannav.com/files/cv.pdf)
 
 Commencement
 ============
