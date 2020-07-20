@@ -1,16 +1,32 @@
-### Hi there 👋
+![Avatar](https://avatars1.githubusercontent.com/u/331827?s=460&u=b2baf635fce81f768c4eb340a8df82fa3c76942e&v=4)
 
-<!--
-**rajeevkannav/rajeevkannav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rajeev Sharma
+-------------
 
-Here are some ideas to get you started:
+-   [*@rajeevkannav*](https://twitter.com/rajeevkannav)
+-   [*Github*](https://github.com/rajeevkannav)
+-   [*Resume*](/files/cv.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Commencement
+============
+
+Currently working as Technical Lead, expertise in web application and restful web services built on ruby on rails. Having 10+ years of industry experience in design, development and support of various applications across various domains (Ed-tech, Healthcare, Architectural and others).
+
+### Interests
+
+-   Web applications
+-   Software architecture
+-   Clean code
+
+### Education
+
+-  
+    Master of Computer Applications, 2009
+
+    Chaudhary Devi Lal University, Sirsa Haryana
+
+-  
+    Bachelor of Science (Electronics), 2006
+
+    Kurukshetra University, Kurukshetra
+
