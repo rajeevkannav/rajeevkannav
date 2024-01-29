@@ -1,17 +1,15 @@
-Commencement
+I am Rajeev Sharma
 ============
 
-I am Rajeev Sharma
--------------
-
-
-Currently working as Technical Lead, expertise in web application and restful web services built on ruby on rails. Having 10+ years of industry experience in design, development and support of various applications across various domains (Ed-tech, Healthcare, Architectural and others).
+I'm a software professional, adept at leveraging technology to tackle real-world challenges. With a proven track record in startups and global consulting firms, I've spearheaded the design and development of intricate software solutions, led teams, and executed technology strategies. Advocating for teamwork and collaboration, I'm dedicated to making a positive impact and contributing to social causes. Approachable and passionate about mentoring, I believe in sharing knowledge and experience with young developers. Committed to work-life balance, I aim to foster a positive and supportive environment for my team. Eager to continue my tech career, I aspire to use my skills to solve complex problems and create a positive impact globally.
 
 ### Interests
 
--   Web applications
 -   Software architecture
 -   Clean code
+-   Cloud Infrastructure
+-   Scalability and Performance Optimization
+-   Agile Software Development
 
 ### Education
 
